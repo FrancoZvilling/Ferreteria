@@ -11,7 +11,7 @@ const Footer = () => {
           
           {/* Columna 1: Info Empresa */}
           <div>
-            <h4 className="text-2xl font-bold mb-4">FERRETERÍA<span className="text-secondary">EXPRESS</span></h4>
+            <h4 className="text-2xl font-bold mb-4">PERALTA<span className="text-secondary">FERRETERÍA</span></h4>
             <p className="text-gray-300 text-sm mb-4">
               Tu aliado en construcción y hogar. Ofrecemos la mejor calidad en herramientas y materiales con envíos a todo el país.
             </p>
@@ -74,7 +74,7 @@ const Footer = () => {
 
         {/* Barra Inferior Copyright */}
         <div className="border-t border-gray-700 pt-6 mt-8 text-center text-sm text-gray-400 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p>© 2024 Ferretería Express. Todos los derechos reservados.</p>
+          <p>© 2024 Peralta Ferretería. Todos los derechos reservados.</p>
           <p>Desarrollado con React y Tailwind.</p>
         </div>
       </div>
