@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: white; /* Forzamos blanco */
+  font-family: 'Inter', sans-serif;
+}
+
+/* Ocultar barra de scroll pero permitir deslizar */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+}
+
+.products-swiper .swiper-button-next,
+.products-swiper .swiper-button-prev {
+  top: 33% !important; /* <--- Esto las sube bien arriba, a la altura de la foto */
+}
+
