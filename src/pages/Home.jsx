@@ -16,7 +16,7 @@ const Home = () => {
     { id: 2, name: "Set de Llaves Pro", price: "$45.000", image: "https://images.unsplash.com/photo-1615746360032-1ecf87f250fb?q=80&w=1601&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
     { id: 3, name: "Lijadora Orbital", price: "$89.900", image: "https://plus.unsplash.com/premium_photo-1681506560879-d4129fa18fb5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
     { id: 4, name: "Compresor de Aire", price: "$210.000", image: "https://media.istockphoto.com/id/1412024739/photo/air-compressor-is-portable.jpg?s=2048x2048&w=is&k=20&c=GnZHv2x0Qr4uyLxVdQwoFfixJvlJbvJFLOeBko6hj4s=" },
-    { id: 5, name: "Amoladora Angular", price: "$68.000", image: "https://images.unsplash.com/photo-1572981779307-38b8cabb2407?auto=format&fit=crop&q=80&w=400" },
+    { id: 5, name: "Amoladora Angular", price: "$68.000", image: "https://plus.unsplash.com/premium_photo-1675508139501-5312e9b51e27?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
   ];
 
  // Datos de Categorías (Imágenes representativas)
